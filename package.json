@@ -14,6 +14,8 @@
     "react-dom": "18.2.0"
   },
   "devDependencies": {
+    "@sanity/block-content-to-react": "^2.0.7",
+    "@sanity/image-url": "^0.140.19",
     "eslint": "8.18.0",
     "eslint-config-next": "12.1.6"
   }
